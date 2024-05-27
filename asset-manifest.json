@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-app-internet-art/static/css/main.d76a2140.css",
+    "main.js": "/react-app-internet-art/static/js/main.832cace7.js",
+    "static/js/453.0d528318.chunk.js": "/react-app-internet-art/static/js/453.0d528318.chunk.js",
+    "static/media/Wireframe2.jpg": "/react-app-internet-art/static/media/Wireframe2.79d25f704ae07269915f.jpg",
+    "static/media/Wireframe1.jpg": "/react-app-internet-art/static/media/Wireframe1.3d297c7e7bc14ec813bc.jpg",
+    "index.html": "/react-app-internet-art/index.html",
+    "main.d76a2140.css.map": "/react-app-internet-art/static/css/main.d76a2140.css.map",
+    "main.832cace7.js.map": "/react-app-internet-art/static/js/main.832cace7.js.map",
+    "453.0d528318.chunk.js.map": "/react-app-internet-art/static/js/453.0d528318.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76a2140.css",
+    "static/js/main.832cace7.js"
+  ]
+}
